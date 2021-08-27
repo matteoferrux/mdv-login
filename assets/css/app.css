@@ -1,0 +1,102 @@
+body {
+    font-family: "Geomanist";
+    height: 1vh;
+
+    background-color: #fafbfc;
+}
+
+.brand-container {
+    margin-top:120px;
+}
+
+.login-container {
+	width: 500px;
+	height: 100%;
+	/* max-width: 595px; */
+	border-radius: 20px;
+	background: #fff;
+	-webkit-box-shadow: 0 80px 60px 0 rgba(41,48,51,.08);
+	box-shadow: 0 80px 60px 0 rgba(41,48,51,.08);
+	padding: 50px;
+	min-height: 0;
+	margin-right: auto;
+	margin-left: auto;
+	align-items: center;
+	display: inline-table;
+}
+
+.login {
+	padding: 60px 0 50px;
+	max-width: 500px;
+}
+
+.title {
+	font-family: "Geomanist";
+	font-weight: 500;
+	font-size: 1.4rem;
+    margin-bottom: 20px;
+    
+}
+
+.label-form {
+    font-family: "Geomanist";
+    font-weight: 500;
+    color:#657884;
+}
+
+.input-form {
+        position: relative;
+        color: #38454c;
+        width: 100%;
+        padding: 0 15px;
+        border: 2px solid #eceff1;
+        box-sizing: border-box;
+        font-family: inherit;
+        font-weight: 700;
+        font-size: inherit;
+        height: 40px;
+        border-radius: 10px;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        overflow: hidden;
+        margin-bottom: 15px;
+}
+
+.submit-btn {
+	width: 100%;
+	background-color: #0030cc;
+	border: none;
+	color: white;
+	padding: 6px;
+	border-radius: 10px;
+	font-size: 17px;
+	box-shadow: 0 2px 3px #0030cc5e;
+	font-weight: 500;
+}
+
+.alert {
+ border-radius: 18px;
+}
+
+.alert-danger {
+    color: white;
+    background-color: #ff3d00;
+}
+
+.app-badge {
+
+	margin-top: 10px;
+	display: inline-block;
+	padding: 3px 7px 3px 7px;
+	font-size: 100%;
+	font-weight: 700;
+	line-height: 1;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: bottom;
+	border-radius: .25rem;
+	background-color: #03c;
+	color: white ;
+	font-family: 'Space Grotesk';
+	/* margin-bottom: 4px; */
+}
