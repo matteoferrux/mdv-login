@@ -6,7 +6,7 @@
 <p align="center">
 <img src="https://badgen.net/github/last-commit/epikcloudfr/mdv-login">
 <img src="https://badgen.net/github/release/epikcloudfr/mdv-login">
-<img src="https://badgen.net/github/stars/epikcloudfr/mdv-login">
+<img src="https://badgen.net/github/release/epikcloudfr/mdv-login">
 </p>
 <p align="center">Système d'authentification aux services de MattDev</p>
 
