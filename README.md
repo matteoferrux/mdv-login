@@ -20,6 +20,7 @@
 3. The PHP script to connect to the database is in `config/config.php` directory. Replace credentials to in config.php to match your server credentials.
 
 <hr>
+
 > This script is based on an existant script by [@romeopeter](https://github.com/romeopeter/) : [PHP-MYSQL-LOGIN-SYSTEM](https://github.com/romeopeter/PHP-MYSQL-LOGIN-SYSTEM/)
 
 
